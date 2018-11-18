@@ -16,7 +16,7 @@ I like to write code and do other code related tasks.
 
 #### Associate Application Developer
 
-- March 2017 - Present
+- March 2017 - October 2018
   - C#, ASP.NET, SQL, GitLab, PHP
   - Lead small team to build and maintain a large number of small web applications
   - Initiated the tracking of source code and bugs using GitLab
