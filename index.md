@@ -6,11 +6,19 @@ layout: default
 
 * * *
 
-I like to write code and do other code related tasks.
+I like to code.
 
 # [](#header-experience)Experience
 
 * * *
+
+### [](header-c2c)Coast to Coast
+
+### Software Engineer
+
+- November 2018 - Present
+  - C#, .NET Core 2.0, Azure, VSTS
+  - Enhance and maintain a complex web application as part of a small team
 
 ### [](header-ksu)Kent State University
 
@@ -30,16 +38,6 @@ I like to write code and do other code related tasks.
   - C#, Java, TFS
   - Examine server log for errors to fix
   - Worked in a small team which was part of a much larger team
-
-### [](header-uakron)The University of Akron
-
-#### Graduate Assistant
-
-- August 2015 - August 2016
-  - C/C++, Python, git, Linux
-  - Grade undergraduate projects and homework assignments
-  - Give guidance to students in need
-  - Lead students in interactive labs
 
 # [](header-education)Education
 
