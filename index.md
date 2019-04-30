@@ -6,7 +6,7 @@ layout: default
 
 * * *
 
-I like to code.
+I like to write code.
 
 # [](#header-experience)Experience
 
@@ -17,8 +17,9 @@ I like to code.
 #### Software Engineer
 
 - November 2018 - Present
-  - C#, .NET Core 2.0, Azure, VSTS
+  - C#, .NET Core 2.2, Azure, VSTS
   - Enhance and maintain a complex web application as part of a small team
+  - Tie in Azure's Search Service
 
 ### [](header-ksu)Kent State University
 
