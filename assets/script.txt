@@ -1,0 +1,1 @@
+pandoc -H header-include.txt cory-boveington-resume.md -t html -o ../index.html --metadata pagetitle='Cory Boveington - Resume'

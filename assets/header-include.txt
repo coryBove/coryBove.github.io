@@ -1,0 +1,27 @@
+<meta name="author" content="Cory Boveington" />
+<meta name="description" content="Resume">
+<meta name="keywords" content="Cory Boveington Resume">
+
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+
+<style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    button {
+        background: #222222;
+        color: grey;
+        text-align: left;
+    }
+    h5,
+    a,
+    p,
+    li {
+        color: lightgrey;
+    }
+</style>
