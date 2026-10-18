@@ -34,7 +34,7 @@ September 2025 - Present
 
 #### Seasonal Maintenance Worker - Goodyear Heights
 
-June 2025 - November 2025
+June 2025 - September 2025
 
 - Maintain and enhance lands and facilities by performing unskilled and semi-skilled jobs
 - Assure the highest standard of maintenance, safety, and service to the public
